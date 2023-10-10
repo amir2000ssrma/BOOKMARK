@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/aircraft.png</file>
+        <file>icons/arrow.png</file>
+        <file>icons/circle.png</file>
+        <file>icons/down.png</file>
+        <file>icons/easy-to-find.png</file>
+        <file>icons/logout.png</file>
+        <file>icons/multiply.png</file>
+        <file>icons/rectangle.png</file>
+        <file>icons/search-icon.png</file>
+        <file>icons/search.png</file>
+        <file>icons/square.png</file>
+        <file>ShowWindow.qml</file>
+    </qresource>
+</RCC>
